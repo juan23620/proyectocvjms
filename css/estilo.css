@@ -37,7 +37,8 @@ nav{
 @media only screen and (max-width: 600px) {
   nav {
     background: black;
-    flex-direction: column;
+    display:none;
+    
 
   }
   .nav-enlace{
